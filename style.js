@@ -23,6 +23,7 @@ function getcolor(){
 
    }
    hexBody.style.backgroundColor = Hexcolr
+   hex.innerHTML = Hexcolr
 }
 
 
